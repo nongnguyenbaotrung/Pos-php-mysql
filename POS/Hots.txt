@@ -1,0 +1,19 @@
+Main Domain:	momo.byethost8.com
+FTP hostname:	ftpupload.net
+FTP username:	b8_35536800
+MySQL hostname:	sql213.byethost8.com
+MySQL username:	b8_35536800
+Hosting Volume:	vol15_6
+
+
+
+Control panel username:	b8_35536800
+Control panel password:	momo9923
+Control panel URL:	cpanel.byethost8.com
+MySQL username	b8_35536800
+MySQL password:	momo9923
+MySQL hostname:	sql213.byethost8.com
+FTP username:	b8_35536800
+FTP password:	momo9923
+FTP host name:	ftp.byethost8.com
+Your Website URL:	http://momo.byethost8.com
